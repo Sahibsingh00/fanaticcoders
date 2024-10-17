@@ -1,34 +1,109 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Fanatic Coders Website
+
+![Fanatic Coders](https://drive.google.com/file/d/18Nk1SRJAQbHuJy4UkKAAN_rA0SWdKXOn/view?usp=sharing) <!-- Optional: Add an image/banner for your project -->
+
+Official website for **Fanatic Coders**, a web development company specializing in building high-quality, responsive web applications.
+
+## Table of Contents
+
+- [About the Project](#about-the-project)
+- [Tech Stack](#tech-stack)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## About the Project
+
+The **Fanatic Coders** website serves as a professional platform to showcase the company's portfolio, services, and expertise in the field of web development.
+
+This project focuses on:
+- Delivering a responsive and engaging user experience.
+- Highlighting the core services offered by **Fanatic Coders**.
+- Providing easy navigation and seamless browsing across devices.
+
+## Tech Stack
+
+- **Next.js** – React framework for server-side rendering and static site generation.
+- **JavaScript** – Used for client-side scripting.
+- **CSS/SCSS** – Styling and layout of the website.
+- **Firebase** – Backend as a service for handling data storage and user authentication.
+- **Tailwind CSS** – Utility-first CSS framework for fast UI development.
+- **Shadcn** – For pre-built, customizable UI components.
+
+## Features
+
+- **Responsive Design** – Works across all devices (desktop, tablet, mobile).
+- **Dark/Light Mode** – Toggle between light and dark themes.
+- **User Authentication** – Sign in/sign up functionality for users.
+- **Booking Management** – Users can book services directly from the platform.
+- **Portfolio Showcase** – Displays the company's past projects and case studies.
 
 ## Getting Started
 
-First, run the development server:
+To get a local copy up and running, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+### Prerequisites
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Make sure you have [Node.js](https://nodejs.org/) installed.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/fanatic-coders-website.git
+   ```
 
-## Learn More
+2. Navigate to the project directory:
+   ```bash
+   cd fanatic-coders-website
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Usage
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+To run the project locally:
 
-## Deploy on Vercel
+1. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+2. Open your browser and go to:
+   ```
+   http://localhost:3000
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Deployment
+
+This project is deployed on Netlify. For detailed deployment instructions, refer to the [Netlify docs](https://docs.netlify.com/).
+
+## Contributing
+
+Contributions are welcome! Please follow these steps to contribute:
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+Sahib Singh - [singh0sahib@gmail.com](mailto:singh0sahib@gmail.com)
+
+GitHub: [@Sahibsingh00](https://github.com/Sahisingh00)
+
+Project Link: [https://github.com/Sahibsingh00/fanaticcoders.git](https://github.com/Sahibsingh00/fanaticcoders.git)
